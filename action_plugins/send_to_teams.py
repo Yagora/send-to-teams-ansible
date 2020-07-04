@@ -36,7 +36,7 @@ class ActionModule(ActionBase):
             "sections": [{
                     "title":  fullTitle,
                     "facts": [{
-                        "name": "Environments",
+                        "name": "Environment",
                         "value": environment
                     }, {
                         "name": "Action",
